@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\ReFile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D24E3D8D-F0D8-4CEF-AE79-C5C5C87B4D11}|ReFile\\ReFile.csproj|d:\\c#\\refile\\refile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24E3D8D-F0D8-4CEF-AE79-C5C5C87B4D11}|ReFile\\ReFile.csproj|solutionrelative:refile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24E3D8D-F0D8-4CEF-AE79-C5C5C87B4D11}|ReFile\\ReFile.csproj|D:\\C#\\ReFile\\refile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D24E3D8D-F0D8-4CEF-AE79-C5C5C87B4D11}|ReFile\\ReFile.csproj|solutionrelative:refile\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24E3D8D-F0D8-4CEF-AE79-C5C5C87B4D11}|ReFile\\ReFile.csproj|d:\\c#\\refile\\refile\\resources\\resources.de-de.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{D24E3D8D-F0D8-4CEF-AE79-C5C5C87B4D11}|ReFile\\ReFile.csproj|solutionrelative:refile\\resources\\resources.de-de.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\ReFile\\ReFile\\Form1.cs",
+              "RelativeDocumentMoniker": "ReFile\\Form1.cs",
+              "ToolTip": "D:\\C#\\ReFile\\ReFile\\Form1.cs",
+              "RelativeToolTip": "ReFile\\Form1.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAwwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:06:49.185Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Entwurf - Deutsch (Deutschland)]",
+              "DocumentMoniker": "D:\\C#\\ReFile\\ReFile\\Form1.cs",
+              "RelativeDocumentMoniker": "ReFile\\Form1.cs",
+              "ToolTip": "D:\\C#\\ReFile\\ReFile\\Form1.cs [Entwurf - Deutsch (Deutschland)]",
+              "RelativeToolTip": "ReFile\\Form1.cs [Entwurf - Deutsch (Deutschland)]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T12:22:22.161Z",
+              "IsPinned": true,
+              "EditorCaption": " [Entwurf - Deutsch (Deutschland)]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.de-DE.resx",
+              "DocumentMoniker": "D:\\C#\\ReFile\\ReFile\\Resources\\Resources.de-DE.resx",
+              "RelativeDocumentMoniker": "ReFile\\Resources\\Resources.de-DE.resx",
+              "ToolTip": "D:\\C#\\ReFile\\ReFile\\Resources\\Resources.de-DE.resx",
+              "RelativeToolTip": "ReFile\\Resources\\Resources.de-DE.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-02-18T12:22:11.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
